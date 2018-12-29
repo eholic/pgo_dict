@@ -1,6 +1,8 @@
 # pgo_dict
 Pokémon GO dictionary to filter best counters or each generation.
 
+Also, you can find clipboard [here](https://mxxiv.net/#/pgo#pgo_top).
+
 ## Requirements
 - Mac OSX
 - iOS
@@ -11,4 +13,5 @@ Pokémon GO dictionary to filter best counters or each generation.
 ![](preparation.gif)
 
 ## Usage
+Type `Replace keyword` and `space` to substitute.
 <img src="usage.gif" width="300px">
