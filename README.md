@@ -14,4 +14,5 @@ Also, you can find clipboard [here](https://mxxiv.net/#/pgo#pgo_top).
 
 ## Usage
 Type `Replace keyword` and `space` to substitute.
+
 <img src="usage.gif" width="300px">
